@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "AlmostPre5.WinUI": {
+      "commandName": "AppContainer"
+    }
+  }
+}
